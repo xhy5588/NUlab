@@ -1,0 +1,10 @@
+{
+    "user_code": "sculpting",
+    "server_port": 50301,
+    "server_ip": "10.0.0.122",
+    "update_time": 2,
+    "fc_watchdog": 200,
+    "localizer_ip": "10.0.0.25",
+    "localizer_port": 54321,
+    "localizer_timeout": 1.0
+}
